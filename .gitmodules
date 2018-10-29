@@ -1,0 +1,3 @@
+[submodule "software/pyDML/stats"]
+	path = software/pyDML/stats
+	url = https://github.com/jlsuarezdiaz/pyDML-Stats.git
